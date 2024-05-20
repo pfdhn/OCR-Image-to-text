@@ -20,3 +20,8 @@ The following are additional arguments to use:
 
 
 Here are some output examples:
+## INPUT:
+![alt-text][https://github.com/pfdhn/OCR-Image-to-text/blob/main/sample/sample1.png]
+
+## OUTPUT:
+![alt-text][https://github.com/pfdhn/OCR-Image-to-text/blob/main/sample/sample1_output.png]
