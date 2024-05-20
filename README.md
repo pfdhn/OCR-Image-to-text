@@ -9,13 +9,14 @@ python imgtotxt.py --source test/test1.PNG
 
 The following are additional arguments to use:
 
-| First Header  | Second Header |
+| Argument | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ```--save-as```  | set output folder name  |
+| ```--save-txt```  | save results to txt file  |
+| ```--threshold``` | use different threshold values [mean-c, gaussian-c, binary] |
 
-```--save-as```
-```--save-txt```
-```--threshold```
+
+
+
 
 Here are some output examples:
