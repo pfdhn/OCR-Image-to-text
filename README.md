@@ -19,7 +19,7 @@ The following are additional arguments to use:
 
 
 
-Here are some output examples:
+Here is a sample output:
 ## INPUT:
 ![alt-text](https://github.com/pfdhn/OCR-Image-to-text/blob/main/sample/sample1.png)
 
