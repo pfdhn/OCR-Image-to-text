@@ -1,6 +1,6 @@
 # OCR-Image-to-text
 
-This repository uses the pytesseract library to convert image to text. 
+This repository uses the pytesseract library to convert image to text. The required libraries are in the requirements.txt file.
 
 To convert image to text, use the following code
 ```
